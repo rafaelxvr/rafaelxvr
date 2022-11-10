@@ -3,6 +3,7 @@
 # Fala pessoal, tranquilinho?! Meu nome é Rafael Xavier 🐱‍💻
 ### Sou Desenvolvedor Full-Stack na [Vórtx](https://vortx.com.br/) 🌪, amante de tecnologia 👨‍💻 , gatos 🐱‍👤, livros 📚 e jogos 🕹!
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelxvr&show_icons=true&theme=radical)]
+[![Rafael's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxvr&layout=compact&theme=radical&count-private=true)]
 
 - 💻 Estudante de Ciência da Computação;
 - 🕶 Focado em Back-End;
