@@ -2,8 +2,6 @@
 
 # Fala pessoal, tranquilinho?! Meu nome é Rafael Xavier 🐱‍💻
 ### Sou Desenvolvedor Full-Stack na [Vórtx](https://vortx.com.br/) 🌪, amante de tecnologia 👨‍💻 , gatos 🐱‍👤, livros 📚 e jogos 🕹!
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelxvr&show_icons=true&theme=radical)]
-[![Rafael's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxvr&layout=compact&theme=radical&count-private=true)]
 
 - 💻 Estudante de Ciência da Computação;
 - 🕶 Focado em Back-End;
@@ -17,7 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px"/>
 </div>
+
 ---
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelxvr&show_icons=true&theme=radical)
+![Rafael's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxvr&layout=compact&theme=radical&count-private=true)
 
 <div id="badges">
   <a href = "https://github.com/rafaelxvr">
