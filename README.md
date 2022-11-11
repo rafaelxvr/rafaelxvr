@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/78372916/200951189-97ce432f-46d4-4d5f-9f3d-ac4e3e13d5a1.jpg" width="325px" align="center">
 
-# Fala pessoal, tranquilinho?! Meu nome é Rafael Xavier 🐱‍💻
+# Fala pessoal, suave?! Meu nome é Rafael Xavier 🐱‍💻
 ### Sou Desenvolvedor Full-Stack na [Vórtx](https://vortx.com.br/) 🌪, amante de tecnologia 👨‍💻 , gatos 🐱‍👤, livros 📚 e jogos 🕹!
 
 - 💻 Estudante de Ciência da Computação;
