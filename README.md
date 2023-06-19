@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/78372916/200951189-97ce432f-46d4-4d5f-9f3d-ac4e3e13d5a1.jpg" width="325px" align="center">
 
-# Olá! Meu nome é Rafael Xavier 🐱‍💻
-### Sou Desenvolvedor Full-Stack na [Vórtx](https://vortx.com.br/) 🌪, amante de tecnologia 👨‍💻 , gatos 🐱‍👤, livros 📚 e jogos 🕹!
+# Hello! My name is Rafael Xavier 🐱‍💻
+### I am a Full-Stack Developer at [Vórtx](https://vortx.com.br/) 🌪, technology enthusiast 👨‍💻, cat lover 🐱‍👤, bookworm 📚, and gamer 🕹!
 
-- 💻 Estudante de Ciência da Computação;
-- 🕶 Focado em Back-End;
-- 🌱 Sempre aprendendo algo novo!
+- 💻 Computer Science student;
+- 🕶 Focused on Back-End;
+- 🌱 Always learning something new!
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px"/>
