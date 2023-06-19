@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/78372916/200951189-97ce432f-46d4-4d5f-9f3d-ac4e3e13d5a1.jpg" width="325px" align="center">
 
 # Hello! My name is Rafael Xavier 🐱‍💻
-### I am a Full-Stack Developer at [Vórtx](https://vortx.com.br/) 🌪, technology enthusiast 👨‍💻, cat lover 🐱‍👤, bookworm 📚, and gamer 🕹!
+### I am a Fullstack Developer at [Vórtx](https://vortx.com.br/) 🌪, technology enthusiast 👨‍💻, cat lover 🐱‍👤, bookworm 📚, and gamer 🕹!
 
 - 💻 Computer Science student;
 - 🕶 Focused on Back-End;
