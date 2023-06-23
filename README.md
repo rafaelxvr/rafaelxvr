@@ -1,4 +1,4 @@
-<img src="https://github.com/rafaelxvr/rafaelxvr/assets/78372916/9c85e0c5-093d-4304-9881-bdefc95beb20" width="425px" align="center">
+<img src="https://github.com/rafaelxvr/rafaelxvr/assets/78372916/9c85e0c5-093d-4304-9881-bdefc95beb20" width="525px" align="center">
 
 # Hello! My name is Rafael Xavier 🐱‍💻
 ### I am a Fullstack Developer at [Vórtx](https://vortx.com.br/) 🌪, technology enthusiast 👨‍💻, cat lover 🐱‍👤, bookworm 📚, and gamer 🕹!
