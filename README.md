@@ -1,11 +1,14 @@
 <img src="https://github.com/rafaelxvr/rafaelxvr/assets/78372916/9c85e0c5-093d-4304-9881-bdefc95beb20" width="525px" align="center">
 
-# Hello! My name is Rafael Xavier 🐱‍💻
-### I am a Fullstack Developer, technology enthusiast 👨‍💻, cat lover 🐱‍👤, bookworm 📚, and gamer 🕹!
+👋 Hello, I’m Rafael Xavier
+💼 Senior Software Engineer | 🧠 Lifelong Learner | 🐱 Cat Enthusiast | 📚 Bookworm | 🎮 Gamer
+I’m a Senior Software Engineer with over 5 years of experience in designing and developing scalable, resilient backend systems. I specialize in Java, Spring Boot, and microservices architecture, with a strong foundation in Computer Science and a passion for clean, maintainable code.
 
-- 💻 Computer Science student;
-- 🕶 Focused on Back-End;
-- 🌱 Always learning something new!
+🎓 Computer Science undergraduate
+💡 Backend-focused, passionate about system design and software architecture
+🌱 Continuously expanding my skill set through hands-on projects and research
+🧪 Enthusiast of clean code, testing, and engineering best practices
+🤝 Open to collaboration on impactful open-source or side projects
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35px"/>
