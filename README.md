@@ -1,42 +1,45 @@
-<img src="https://github.com/rafaelxvr/rafaelxvr/assets/78372916/9c85e0c5-093d-4304-9881-bdefc95beb20" width="525px" align="center">
+<img src="./assets/linkedin-16bit-style-banner.png" alt="Rafael Xavier — 16-bit banner" width="100%">
 
-# 👋 Hello, I’m Rafael Xavier
+# Hi, I'm Rafael Xavier 👋
 
-### 💼 Senior Software Engineer | 🧠 Lifelong Learner | 🐱 Cat Enthusiast | 📚 Bookworm | 🎮 Gamer
+### Senior Full-Stack Software Engineer · Java · Spring Boot · React · TypeScript · AWS
 
-I’m a **Senior Software Engineer** with over **5 years of experience** in designing and developing scalable, resilient backend systems. I specialize in **Java**, **Spring Boot**, and microservices architecture, with a strong foundation in **Computer Science** and a passion for clean, maintainable code.
+I build scalable, high-availability platforms and modernize complex systems. I have 6+ years of software engineering experience across backend, frontend, cloud infrastructure, and technical leadership, including work with international teams and enterprise products.
 
----
+- ☕ Building Java 21 and Spring Boot microservices with DDD and Clean Architecture
+- ⚛️ Delivering React and TypeScript applications for enterprise and customer-facing products
+- ☁️ Designing and operating cloud solutions on AWS with Docker, Kubernetes, and CI/CD
+- 🔍 Focused on system design, performance, security, testing, and observability
+- 🌎 Based in Brazil and experienced in remote collaboration with international teams
 
-- 🎓 Computer Science undergraduate  
-- 💡 Backend-focused, passionate about system design and software architecture  
-- 🌱 Continuously expanding my skill set through hands-on projects and research  
-- 🧪 Enthusiast of clean code, testing, and engineering best practices  
-- 🤝 Open to collaboration on impactful open-source or side projects  
+## Core stack
 
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring" title="Spring">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="45" alt="AWS" title="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" alt="Kubernetes" title="Kubernetes">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL">
+</p>
 
-Thanks for visiting my profile! You can go ahead and explore my repositories or reach out for collaboration. 
+## GitHub activity
 
-<div> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="35px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="35px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px"/>
-</div>
+<p>
+  <img src="./profile/stats.svg" height="195" alt="Rafael Xavier's GitHub statistics">
+  <img src="./profile/top-langs.svg" height="195" alt="Rafael Xavier's most used languages">
+</p>
 
----
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelxvr&show_icons=true&theme=radical)
-![Rafael's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxvr&layout=compact&theme=radical&count-private=true)
+## Connect
 
-<div id="badges">
-  <a href = "https://github.com/rafaelxvr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p>
+  <a href="https://www.linkedin.com/in/rafaelxvr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/rafaelxvr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "[https://github.com/rafaelxvr](https://twitter.com/dangeroumasters)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://rafaelxavier.tech">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website">
   </a>
-</div>
+</p>
